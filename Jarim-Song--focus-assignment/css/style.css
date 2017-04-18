@@ -1,11 +1,29 @@
 
+  html, body {
+        max-width: 100%;
+        overflow-x: hidden;
+            font-family: 'Raleway', sans-serif;
 
+
+
+
+    }
+
+.content{
+  width: 1600px;
+  position: relative;
+  display: block;
+  margin-left: auto;
+    margin-right: auto 
+
+}
 /* Hero Start*/
 
 .hero{
 	top: 0px;
 	width: 1600px;
     height: auto;
+
  
  }
 
@@ -211,11 +229,7 @@ font-family: 'Raleway', sans-serif;
 
 /* Hero end */
 
-body{
 
-    font-family: 'Raleway', sans-serif;
-
-}
 
 
 .container{
